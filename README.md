@@ -4,4 +4,5 @@ Used packages: pyTelegramBotAPI, requests (for scraping), beautifulsoup4 (for sc
 Scraped site: https://ismlar.com
 
 Telegram: https://t.me/sarrvarr23
+
 Instagram: https://instagram.com/sarv_ibragimov
